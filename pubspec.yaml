@@ -1,0 +1,30 @@
+name: praktikum4_10recipeapp
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/Rawon.jpg
+  - assets/GadoGado.jpe
+  - assets/SotoLamongan.jpg 
+  - assets/NasiKrawu.jpe 
+  - assets/RujakCingur.jpeg 
+  - assets/PecelLele.jpe
+  - assets/LontongBalap.jpg
+  - assets/BebekMadura.jpg
+  - assets/TahuTek.jpg
+  - assets/TahuCampur.jpg
